@@ -4,7 +4,7 @@
       <div class="col col-12">
         <div class="header-box">
           <div class="logo-title">
-            <a href="{{site.baseurl}}/"><img src="favicon.jpg"  height="50px" width="80%" alt="Gameprix" /></img>
+            <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/favicon.jpg"  height="50px" width="80%" alt="Gameprix" /></img>
    </a>
           </div>
 
@@ -17,10 +17,10 @@
               {% if page.title %}
               <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}" class="menu-link">{{ page.title }}</a></li>
               <li><a href="streamly" >streamly</a></li>
-<li><a href="codeigniter" >codeigniter</a></li>
-<li><a href="readme" >readme</a></li>
-<li><a href="upload" >upload</a></li>
-<li><a href="tale" >tale</a></li>
+<li class="menu-item"><a href="codeigniter" >codeigniter</a></li>
+<li class="menu-item"><a href="readme" >readme</a></li>
+<li class="menu-item"><a href="upload" >upload</a></li>
+<li class="menu-item"><a href="tale" >tale</a></li>
               
               {% endif %}
                 {% endunless %}
