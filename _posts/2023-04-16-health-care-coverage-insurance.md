@@ -19,7 +19,8 @@ categories:
 ---
 
 <div style="clear: both; text-align: center;">
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_I-yNVllgstO0tzIKqehR7DqVA1YGBOj-r0jiWF1lRzPhrZBJQ8DM-dHXW6W5UWH7W-jtAgZRdu73LtNZi3IOaYhKwDvt3AtTQHn6X0DAjgkl0IBCQGCw3q-nUKfQgtIjQAASMOvXy_37fMjKYXHQXQXvSFVg3P92CKQ-NBsHGy2lgnhyppR0U2nA1z_N/s320/Campaign-Riverside-BG.png[(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_I-yNVllgstO0tzIKqehR7DqVA1YGBOj-r0jiWF1lRzPhrZBJQ8DM-dHXW6W5UWH7W-jtAgZRdu73LtNZi3IOaYhKwDvt3AtTQHn6X0DAjgkl0IBCQGCw3q-nUKfQgtIjQAASMOvXy_37fMjKYXHQXQXvSFVg3P92CKQ-NBsHGy2lgnhyppR0U2nA1z_N/s320/Campaign-Riverside-BG.png)
+
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_I-yNVllgstO0tzIKqehR7DqVA1YGBOj-r0jiWF1lRzPhrZBJQ8DM-dHXW6W5UWH7W-jtAgZRdu73LtNZi3IOaYhKwDvt3AtTQHn6X0DAjgkl0IBCQGCw3q-nUKfQgtIjQAASMOvXy_37fMjKYXHQXQXvSFVg3P92CKQ-NBsHGy2lgnhyppR0U2nA1z_N/s320/Campaign-Riverside-BG.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_I-yNVllgstO0tzIKqehR7DqVA1YGBOj-r0jiWF1lRzPhrZBJQ8DM-dHXW6W5UWH7W-jtAgZRdu73LtNZi3IOaYhKwDvt3AtTQHn6X0DAjgkl0IBCQGCw3q-nUKfQgtIjQAASMOvXy_37fMjKYXHQXQXvSFVg3P92CKQ-NBsHGy2lgnhyppR0U2nA1z_N/s320/Campaign-Riverside-BG.png)
     
 </div> Health care coverage is a sort of protection that takes care of the expenses of clinical and careful costs for the policyholder. It can assist with safeguarding people and families from the significant expenses of clinical consideration, which can be costly and flighty.
 
