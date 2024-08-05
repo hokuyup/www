@@ -4,18 +4,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Gameprix - Blog  </title>
+  
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
-
+  <!-- Ionicons -->
+ <meta name="icon" content="favicon.ico" />
+<meta name="icon" content="favicon.png" />
+<meta name="icon" content="favicon.jpg" />
+  
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Nunito:400,700" rel="stylesheet">
-  <!-- Ionicons -->
-  <meta name="icon" content="favicon.ico" />
-<meta name="icon" content="favicon.png" />
-<meta name="icon" content="favicon.jpg" />
+
   
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
 <meta name="google-site-verification" content="i7g7vB68vxJSWAjiWlkxYb8HCFNv6-KSOoz5idzIbJQ" />
