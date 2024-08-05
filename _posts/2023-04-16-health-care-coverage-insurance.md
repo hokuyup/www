@@ -13,7 +13,7 @@ blogger_permalink:
     - /2023/04/health-care-coverage-insurance.html
 blogger_internal:
     - /feeds/2496420709098274749/posts/default/7276695433300804273
-image: /wp-content/uploads/2023/04/pexels-leeloo-thefirst-7163955.jpg
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_I-yNVllgstO0tzIKqehR7DqVA1YGBOj-r0jiWF1lRzPhrZBJQ8DM-dHXW6W5UWH7W-jtAgZRdu73LtNZi3IOaYhKwDvt3AtTQHn6X0DAjgkl0IBCQGCw3q-nUKfQgtIjQAASMOvXy_37fMjKYXHQXQXvSFVg3P92CKQ-NBsHGy2lgnhyppR0U2nA1z_N/s320/Campaign-Riverside-BG.png
 categories:
     - insurance
 ---
